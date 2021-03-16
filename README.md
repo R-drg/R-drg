@@ -1,11 +1,11 @@
 # :vulcan_salute: Welcome stranger! My name is Rodrigo.
 
-## About me
+### About me
 - 🎓 I'm a Computer Engineering Student at __Federal University of Uberlândia__ and a Full-Stack Developer.
 - 🔭 I'm currently learning about game development and soon will contribute to the PS Vita development community.
 - ⚡ Fun fact: I know how to play the guitar and very passionate about music
 
-## Skills
+### Skills
 ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -16,18 +16,18 @@
 ![img](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![img](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![img](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-## 🎧 Now Playing
+### 🎧 Now Playing
 [![Spotify](https://spotify-readme-mhaqy0gf0-r-drg.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
 ## Contact
 Email me at: rodrigohferreira210@gmail.com
 
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-henrique-ferreira-032192170/)
-## 🖥️ Computer Specs
+### 🖥️ Computer Specs
 ![img](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![img](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-## Achievements
+###🏆 Achievements
 <p>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=R-drg&theme=radical" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-drg&theme=radical&layout=compact&hide=racket" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=R-drg&theme=radical" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-drg&theme=radical&layout=compact&hide=racket" />
 </p>
