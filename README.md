@@ -1,11 +1,11 @@
 # :vulcan_salute: Welcome stranger! My name is Rodrigo.
 
-### About me
+### ℹ️ About me
 - 🎓 I'm a Computer Engineering Student at __Federal University of Uberlândia__ and a Full-Stack Developer.
 - 🔭 I'm currently learning about game development and soon will contribute to the PS Vita development community.
 - ⚡ Fun fact: I know how to play the guitar and very passionate about music
 
-### Skills
+### 🚀 Skills
 ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
