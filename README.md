@@ -6,18 +6,25 @@
 - ⚡ Fun fact: I know how to play the guitar and very passionate about music
 
 ## Skills
-![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![img](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![img](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![img](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![img](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![img](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![img](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![img](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![img](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![img](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![img](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ## 🎧 Now Playing
 [![Spotify](https://spotify-readme-mhaqy0gf0-r-drg.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
-
-## 🖥️ Computer Specs
-![img](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![img](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 ## Contact
 Email me at: rodrigohferreira210@gmail.com
 
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-henrique-ferreira-032192170/)
+## 🖥️ Computer Specs
+![img](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![img](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Achievements
 <p>
