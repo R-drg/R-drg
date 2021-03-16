@@ -21,4 +21,5 @@
 [![Spotify](https://spotify-readme-mhaqy0gf0-r-drg.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
 
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-henrique-ferreira-032192170/)
-
+[![img](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/r-drg)
+[![img](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/ze_vinganca)
