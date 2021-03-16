@@ -25,9 +25,3 @@ Email me at: rodrigohferreira210@gmail.com
 ### 🖥️ Computer Specs
 ![img](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![img](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-###🏆 Achievements
-<p>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=R-drg&theme=radical" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-drg&theme=radical&layout=compact&hide=racket" />
-</p>
