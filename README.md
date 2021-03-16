@@ -1,4 +1,4 @@
-# :vulcan_salute: Welcome stranger! My name is Rodrigo.
+# :vulcan_salute: Welcome stranger!
 ## ℹ️ About me
 - 🎓 I'm a Computer Engineering Student at __Federal University of Uberlândia__ and a Full-Stack Developer.
 - 🔭 I'm currently learning about game development and soon will contribute to the PS Vita development community.
