@@ -2,7 +2,7 @@
 ## ℹ️ About me
 - 🎓 I'm a Computer Engineering Student at __Federal University of Uberlândia__ and a Full-Stack Developer.
 - 🔭 I'm currently learning about game development and soon will contribute to the PS Vita gaming community.
-- ⚡ Fun fact: I know how to play the guitar and very passionate about music.
+- ⚡ Fun fact: I know how to play the guitar and I am very passionate about music.
 - 📫 To contact me you can e-mail me at rodrigohferreira210@gmail.com or click on the badges at the end.
 
 ![gtx1080](https://img.shields.io/badge/GTX_1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
