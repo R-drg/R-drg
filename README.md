@@ -5,9 +5,6 @@
 - ⚡ Fun fact: I play the guitar and I am very passionate about music.
 - 📫 To contact me you can e-mail me at rodrigohferreira210@gmail.com or click on the badges at the end.
 
-![gtx1080](https://img.shields.io/badge/GTX_1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-![ryzen5](https://img.shields.io/badge/Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 ## 🚀 Skills
 ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
