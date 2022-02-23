@@ -12,10 +12,9 @@
 ![img](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![img](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) 
 ![img](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![img](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![img](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![img](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![img](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![img](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![img](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white)
 ## 🎧 Now Playing
 [![Spotify](https://spotify-readme-mhaqy0gf0-r-drg.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
 
