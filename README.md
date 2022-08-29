@@ -22,7 +22,7 @@
 ![img](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![img](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white)
 ## 🎧 Now Playing
-[![Spotify](https://spotify-readme-mhaqy0gf0-r-drg.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
+[![Spotify](https://novatorem-indol-six.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
 
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-henrique-ferreira-032192170/)
 [![img](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/r-drg)
