@@ -20,7 +20,7 @@
 ![img](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![img](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![img](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ## 🎧 Now Playing
 [![Spotify](https://novatorem-indol-six.vercel.app/api/spotify)](https://open.spotify.com/user/12157279004)
 
