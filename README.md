@@ -3,7 +3,7 @@
 - 🎓 I'm a Computer Engineering Student at __Federal University of Uberlândia__ and a Software Engineer at __Bitboundaire__.
 - 🔭 I'm currently learning about game development and blockchain.
 - ⚡ Fun fact: I play the guitar and I am very passionate about music.
-- 📫 To contact me you can e-mail me at rodrigohferreira210@gmail.com or click on the badges at the end.
+- 📫 To contact me you can e-mail me at contact@0xrodrigo.dev or click on the badges at the end.
 
 ## Workstation
 
