@@ -1,5 +1,5 @@
 # :vulcan_salute: Welcome stranger!
-## ℹ️ About me
+## 📌  About me
 - 🎓 Alumnus of Federal University of Uberlândia | B.E. in Computer Engineering
 - 💼 Software Engineer at Bitboundaire | Innovating in Tech
 - 👨‍💻 Exploring Game Development & Blockchain Technology
