@@ -1,9 +1,11 @@
 # :vulcan_salute: Welcome stranger!
 ## ℹ️ About me
-- 🎓 I'm a Computer Engineering Student at __Federal University of Uberlândia__ and a Software Engineer at __Bitboundaire__.
-- 🔭 I'm currently learning about game development and blockchain.
-- ⚡ Fun fact: I play the guitar and I am very passionate about music.
-- 📫 To contact me you can e-mail me at contact@0xrodrigo.dev or click on the badges at the end.
+- 🎓 Alumnus of Federal University of Uberlândia | B.E. in Computer Engineering
+- 💼 Software Engineer at Bitboundaire | Innovating in Tech
+- 👨‍💻 Exploring Game Development & Blockchain Technology
+- 🎸 Passionate Musician | Guitar Enthusiast
+- ✨ Fun Fact: Just like in coding, I love improvising solos on my guitar - it's all about creativity and precision!
+- 📫 Connect with me: contact@0xrodrigo.dev or via the badges below
 
 ## Workstation
 
