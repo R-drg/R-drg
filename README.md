@@ -2,7 +2,7 @@
 ## 📌  About me
 - 🎓 B.E. in Computer Engineering
 - 💼 Software Engineer | Innovating in Tech
-- 👨‍💻 Exploring Game Development & Blockchain Technology
+- 👨‍💻 Exploring LLMs & Blockchain Technology
 - 🎸 Passionate Musician | Guitar Enthusiast
 - ✨ Fun Fact: Just like in coding, I love improvising solos on my guitar - it's all about creativity and precision!
 - 📫 Connect with me: contact@0xrodrigo.dev or via the badges below
