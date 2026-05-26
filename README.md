@@ -10,8 +10,7 @@
 ## Workstation
 
 ![img](https://img.shields.io/badge/Ryzen%205%205600-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![img](https://img.shields.io/badge/RTX%5070-76b900?style=flat-square&logo=nvidia&logoColor=white)
-![img](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![img](https://img.shields.io/badge/RTX%205070-76b900?style=flat-square&logo=nvidia&logoColor=white)
 
 ## 🚀 Skills
 ![img](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
