@@ -1,8 +1,8 @@
 # :vulcan_salute: Welcome stranger!
 ## 📌  About me
 - 🎓 B.E. in Computer Engineering
-- 💼 Software Engineer | Innovating in Tech
-- 👨‍💻 Founder of [Nüwa | AI Nutrition Coach](https://nuwafit.com)
+- 💼 Software Engineer
+- 👨‍💻 Founder of [Nüwa : AI Nutrition Coach](https://nuwafit.com)
 - 🎸 Passionate Musician | Guitar Enthusiast
 - ✨ Fun Fact: Just like in coding, I love improvising solos on my guitar - it's all about creativity and precision!
 - 📫 Connect with me: rodrigo@0xrodrigo.dev or via the badges below
